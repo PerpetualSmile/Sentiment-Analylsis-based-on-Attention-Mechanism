@@ -16,8 +16,10 @@
 - Inter-Attention BiLSTM 
 > Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014).
 - Transformer for classification
+> Vaswani, Ashish, et al. "Attention is all you need." Advances in Neural Information Processing Systems. 2017.
 - Self-Attention & Inter-Attention BiLSTM
 - Hierarchical Attention Network
+> Yang, Zichao, et al. "Hierarchical attention networks for document classification." Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016.
 
 ## Attention Visualization
 
