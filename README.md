@@ -36,7 +36,7 @@
 
 - Hierarchical Attention Network
 
-<center><img src="model&#32;graph/HAN.png" width="70%"/></center>
+<center><img src="model&#32;graph/HAN.PNG" width="70%"/></center>
 
 ## Attention Visualization
 
