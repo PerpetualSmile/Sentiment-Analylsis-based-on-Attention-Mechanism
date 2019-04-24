@@ -21,6 +21,24 @@
 - Hierarchical Attention Network
 > Yang, Zichao, et al. "Hierarchical attention networks for document classification." Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016.
 
+## Model Architecture
+- Inter-Attention BiLSTM
+
+![](model&#32;graph/Attention-BiLSTM.png)
+
+- Transformer
+
+![](model&#32;graph/Transformer.png)
+
+- Self-Attention & Inter-Attention BiLSTM
+
+![](model&#32;graph/SI-Attention-BiLSTM.png)
+
+- Hierarchical Attention Network
+
+![](model&#32;graph/HAN.png)
+
+
 ## Attention Visualization
 
 ![](attention&#32;visualization/Douban/Attention-h-query-BiLSTM/Attention-h-query-BiLSTM-on-Douban-90000.png)
