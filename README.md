@@ -24,20 +24,19 @@
 ## Model Architecture
 - Inter-Attention BiLSTM
 
-![](model&#32;graph/Attention-BiLSTM.png)
+<center><img src="model&#32;graph/Attention-BiLSTM.png" width="70%"/></center>
 
 - Transformer
 
-![](model&#32;graph/Transformer.png)
+<center><img src="model&#32;graph/Transformer.png" width="70%"/></center>
 
 - Self-Attention & Inter-Attention BiLSTM
 
-![](model&#32;graph/SI-Attention-BiLSTM.png)
+<center><img src="model&#32;graph/Attention-BiLSTM.png" width="70%"/></center>
 
 - Hierarchical Attention Network
 
-![](model&#32;graph/HAN.png)
-
+<center><img src="model&#32;graph/HAN.png" width="70%"/></center>
 
 ## Attention Visualization
 
